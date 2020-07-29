@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### it's OK? 
+#### It's OK? 
 <!--
 **RosyProgramming/Rosyprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My name is **Rosana Oliveira**.
-- :relaxed: I am 23 years old and I am not currently working, but I am looking for opportunities.
-- I'm learning a lot with web programming. heart_eyes:
-- I have been looking every day to learn from myself.
-- 😄 computer: I am a student of the Information System course (UniFacid | Wyden)
 
+- My name is Rosana Oliveira.
+- :relaxed: I'm 23 years old.
+- 😄:computer: I am a student of the course - Information System (UniFacid | Wyden)
+- I am currently looking for opportunities.
+- I'm learning a lot with web programming. :heart_eyes:
