@@ -20,3 +20,4 @@ Here are some ideas to get you started:
  <p> 😄:computer: I am a student of the course - Information System (UniFacid | Wyden) </p>
  <p>  :dart: I am currently looking for opportunities. </p>
 <p> I'm learning a lot with web programming. :heart_eyes: </p>
+<p>https://codepen.io/rosyprogramming</p>
