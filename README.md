@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### It's OK? 
+#### How are you? 
 <!--
 **RosyProgramming/Rosyprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <p>  :woman: My name is Rosana Oliveira.</p>
  <p> :relaxed: I'm 24 years old. </p>
- <p> 😄:computer: I am a student of the course - Information System (UniFacid | Wyden) </p>
+ <p> 😄:computer: I am studying Information System at UniFacid. </p>
  <p>  :dart: I am currently looking for opportunities. </p>
 <p> I'm learning a lot with web programming. :heart_eyes: </p>
 <p>https://codepen.io/rosyprogramming</p>
