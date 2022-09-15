@@ -18,6 +18,6 @@ Here are some ideas to get you started:
  <p>  :woman: My name is Rosana Oliveira.</p>
  <p> :relaxed: I'm 25 years old. </p>
  <p> 😄:computer: I am studying Information System at UniFacid. </p>
- <p>  :dart: I am currently looking for opportunities. </p>
+ <p>  :dart: I'm always looking to reach the next level. </p>
 <p> I'm learning a lot with web programming. :heart_eyes: </p>
 <p>https://codepen.io/rosyprogramming</p>
