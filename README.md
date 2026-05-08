@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <p>  :woman: My name is Rosana Oliveira.</p>
- <p> :relaxed: I'm 29 years old. </p>
- <p> 😄:computer: I am studying Information System at UniFacid. </p>
- <p>  :dart: I'm always looking to reach the next level. </p>
-<p> I'm learning a lot with web programming. :heart_eyes: </p>
-<p>https://codepen.io/rosyprogramming</p>
+<p>👩 My name is Rosana Oliveira.</p>
+
+<p>😊 I'm 29 years old.</p>
+
+<p>💻 I have a degree in Information Systems from UniFacid.</p>
+
+<p>🚀 I’m passionate about technology and always looking to reach the next level.</p>
+
+<p>🌐 I’m constantly improving my skills in web development and learning new technologies.</p>
+
+<p>❤️ I love creating projects and growing as a developer.</p>
+
+<p>🔗 <a href="https://codepen.io/rosyprogramming">My CodePen</a></p>
