@@ -1,30 +1,29 @@
-### Hi there 👋
-#### How are you? 
-<!--
-**RosyProgramming/Rosyprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Rosana Oliveira
 
-Here are some ideas to get you started:
+💻 **Full Stack Developer | PHP | JavaScript | TypeScript | React | Node.js**
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Full Stack Developer passionate about technology and building web applications, with professional experience in software development, system maintenance, integrations, APIs, and databases.
 
-<p>👩 My name is Rosana Oliveira.</p>
+🎓 **Education**
 
-<p>😊 I'm 30 years old.</p>
+* Bachelor's Degree in Information Systems — UniFacid Wyden
+* Postgraduate in Full Stack Development
 
-<p>💻 I have a degree in Information Systems from UniFacid.</p>
+🚀 **Technologies & Tools**
 
-<p>🚀 I’m passionate about technology and always looking to reach the next level.</p>
+* **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap
+* **Backend:** PHP, Node.js
+* **APIs:** REST APIs
+* **Databases:** MySQL, SQL, Oracle, MongoDB
+* **Cloud:** AWS (EC2, S3, IAM, CloudWatch)
+* **DevOps & Tools:** Git, GitHub, Docker, Bitbucket
+* **Others:** Linux, Agile methodologies
 
-<p>🌐 I’m constantly improving my skills in web development and learning new technologies.</p>
+🌱 I'm constantly improving my technical skills, exploring new technologies, and looking for opportunities to build scalable and efficient solutions.
 
-<p>❤️ I love creating projects and growing as a developer.</p>
+❤️ I enjoy creating projects, solving problems, and continuing to grow as a developer.
 
-<p>🔗 <a href="https://codepen.io/rosyprogramming">My CodePen</a></p>
+🔗 **Connect with me**
+
+* [LinkedIn](https://www.linkedin.com/in/rosana-oliveira-dev)
+* [CodePen](https://codepen.io/rosyprogramming)
